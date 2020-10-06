@@ -23,6 +23,7 @@ body {
 h1 {
   font-family: cursive;
   font-size: 60px;
+  text-shadow: -1px 1px white;
 }
 
 h2,
